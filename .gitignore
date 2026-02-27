@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Environment Files
+.env
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Misc
+*.swp
+*~
